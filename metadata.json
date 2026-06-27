@@ -1,0 +1,6 @@
+{
+  "name": "Live Meeting Assistant",
+  "description": "Trợ lý cuộc họp trực tiếp sử dụng AI để tóm tắt, phát hiện vấn đề, rủi ro và đề xuất giải pháp xử lý tức thì theo diễn biến cuộc họp.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
